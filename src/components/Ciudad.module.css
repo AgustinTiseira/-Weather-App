@@ -1,0 +1,8 @@
+.data{
+    color: blanchedalmond;
+    border:1px solid black;
+border-radius: 10px;
+background: linear-gradient(to bottom, #1D0E70,black);
+
+margin: 3px;
+}
