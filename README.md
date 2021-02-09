@@ -33,12 +33,13 @@ Para visualizar las cards con información del clima debera realizar una busqued
 ![busqueda](./img/busqueda.png)
 
 
-![responsive](./img/busquedaResponsive.png)
+
+![responsive](./img/cardResponsive.png)
 
 
 ### Detalles
 
 Por ultimo usted podra ver los detalles de su ciudad con un simple __"click"__ en el nombre de la misma
 
-![detalles](./img/detallesResponsive.png)
+![detalles](./img/detalles-responsive.png)
 
