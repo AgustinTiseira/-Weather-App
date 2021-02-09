@@ -30,13 +30,13 @@ lo que vera a continuacion es que en su navegador se abrira una pestaña en _"ht
 Para visualizar las cards con información del clima debera realizar una busqueda de la ciudad deseada en la esquina superior derecha, tan solo al darle __"ENTER"__, la información del clima se muestra sin demoras en su pantalla. Las cards se acomodan segun la cantidad de busquedas que realize y el diseño es responsive.
 
 
-![Home](./img/busqueda.png)
-![Home](./img/busqueda-responsive.png)
+![busqueda](./img/busqueda.png)
+![responsive](./img/busqueda-responsive.png)
 
 
 ### Detalles
 
 Por ultimo usted podra ver los detalles de su ciudad con un simple __"click"__ en el nombre de la misma
 
-![Home](./img/detalles-responsive.png)
+![detalles](./img/detalles-responsive.png)
 
